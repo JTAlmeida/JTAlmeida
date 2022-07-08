@@ -1,5 +1,12 @@
 <h2 align="left">Hey there👋! My name is Jônatas and I'm a software engineer from Brazil.</h2>
 
+<h3>About me:</h3>
+<ul>
+  <li>🎓 Bachelor in systems analysis and development (UNICESUMAR)</li>
+  <li>💻 Currently studying Software Development at Driven!</li>
+  <li>🕹️  Love playing games and will bevelop my own game someday!</li>
+</ul>
+
 ###
 
 <div align="center">
@@ -9,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/bd8WSW-QmlcAAAAd/fix-bug-in-production-fix-bug.gif"  />
+<img align="right" height="300" src="https://c.tenor.com/bd8WSW-QmlcAAAAd/fix-bug-in-production-fix-bug.gif"  />
 
 ###
 
