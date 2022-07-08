@@ -40,4 +40,3 @@
 <img href="https://raw.githubusercontent.com/JTAlmeida/JTAlmeida/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
