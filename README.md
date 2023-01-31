@@ -3,8 +3,7 @@
 <h3>About me:</h3>
 <ul>
   <li>🎓 Bachelor in systems analysis and development (UNICESUMAR)</li>
-  <li>💻 Currently studying Software Engineering at Driven!</li>
-  <li>🕹️  Love playing games and will develop my own game someday!</li>
+  <li>🕹️ Love playing games and will develop my own game someday!</li>
 </ul>
 
 ### 📌 Github Stats
